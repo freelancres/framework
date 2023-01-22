@@ -1,1 +1,4 @@
-# framework
+# What is Bootstrap ?
+**Bootstrap**  is a free and open-source collection of CSS and JavaScript/jQuery code used for creating dynamic websites layout and web applications. Bootstrap is one of the most popular front-end frameworks which has really a nice set of predefined CSS codes. Bootstrap uses different types of classes to make responsive websites. Bootstrap 5 was officially released on 16 June 2020 after several months of redefining its features.
+
+Bootstrap is a framework that is suitable for mobile-friendly web development. it means the code and the template available on bootstrap are applicable to various screen sizes. It is responsive for every screen size. The framework is free and can be used in 2 ways that are either by downloading the zip files and including libraries/modules of bootstrap in the project or directly including the URL of bootstrap and using the online version.
